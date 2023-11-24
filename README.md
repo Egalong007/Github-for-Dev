@@ -1,6 +1,4 @@
 # Github-for-Dev
 เรียนคอร์ส Github
-Hello Stargazer
-how R U doing?
-อิงอร
-เหนื่อย
+# Hello Stargazer
+
